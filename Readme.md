@@ -17,7 +17,7 @@
 ### Клонирование репозитория
 
 ```bash 
-git clone https://github.com/mgorohov/network-anomaly-detection.git
+git clone https://github.com/Mgorohov/network-anomaly-detection
 cd network-anomaly-detection
 ```
 ### Установка зависемостей 
